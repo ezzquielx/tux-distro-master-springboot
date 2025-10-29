@@ -1,0 +1,154 @@
+[
+  {
+    "nombre": "Ubuntu",
+    "nivel": "Principiante",
+    "entorno": "GNOME",
+    "recurso": "Medio",
+    "estabilidad": "Alta",
+    "descripcion": "Popular, fácil de usar y con excelente soporte. Ideal para quienes comienzan en Linux."
+  },
+  {
+    "nombre": "Linux Mint LMDE",
+    "nivel": "Principiante",
+    "entorno": "Cinnamon",
+    "recurso": "Bajo",
+    "estabilidad": "Muy Alta",
+    "descripcion": "Rápida, ligera y con una interfaz clásica. Perfecta para migrar desde Windows."
+  },
+  {
+    "nombre": "Zorin OS",
+    "nivel": "Principiante",
+    "entorno": "GNOME",
+    "recurso": "Medio",
+    "estabilidad": "Alta",
+    "descripcion": "Visualmente atractiva y muy fácil de usar. Similar a Windows o macOS."
+  },
+  {
+    "nombre": "Pop!_OS",
+    "nivel": "Principiante",
+    "entorno": "COSMIC (basado en GNOME)",
+    "recurso": "Medio",
+    "estabilidad": "Alta",
+    "descripcion": "Diseñada para productividad y juegos. Excelente soporte para GPUs Nvidia y AMD."
+  },
+  {
+    "nombre": "Debian",
+    "nivel": "Intermedio",
+    "entorno": "GNOME",
+    "recurso": "Medio",
+    "estabilidad": "Muy Alta",
+    "descripcion": "Base de muchas distros. Extremadamente estable y segura. Ideal para servidores o entornos productivos."
+  },
+  {
+    "nombre": "Fedora",
+    "nivel": "Intermedio",
+    "entorno": "GNOME",
+    "recurso": "Medio",
+    "estabilidad": "Alta",
+    "descripcion": "Innovadora y moderna, patrocinada por Red Hat. Ideal para desarrolladores y entusiastas."
+  },
+  {
+    "nombre": "Manjaro",
+    "nivel": "Intermedio",
+    "entorno": "KDE Plasma",
+    "recurso": "Medio",
+    "estabilidad": "Alta",
+    "descripcion": "Basada en Arch, pero mucho más fácil de instalar y mantener. Actualizaciones constantes."
+  },
+  {
+    "nombre": "MX Linux",
+    "nivel": "Principiante",
+    "entorno": "XFCE",
+    "recurso": "Bajo",
+    "estabilidad": "Muy Alta",
+    "descripcion": "Ligera y estable, ideal para equipos antiguos o usuarios que buscan simplicidad."
+  },
+  {
+    "nombre": "openSUSE Leap",
+    "nivel": "Intermedio",
+    "entorno": "KDE Plasma",
+    "recurso": "Medio",
+    "estabilidad": "Muy Alta",
+    "descripcion": "Enfocada en estabilidad y administración avanzada. Ideal para entornos profesionales."
+  },
+  {
+    "nombre": "Arch Linux",
+    "nivel": "Avanzado",
+    "entorno": "Personalizable",
+    "recurso": "Bajo",
+    "estabilidad": "Media",
+    "descripcion": "Minimalista y personalizable. Perfecta para quienes quieren construir su sistema desde cero."
+  },
+  {
+    "nombre": "Parrot OS",
+    "nivel": "Avanzado",
+    "entorno": "MATE",
+    "recurso": "Medio",
+    "estabilidad": "Media",
+    "descripcion": "Basada en Debian, enfocada en seguridad, hacking ético y privacidad, pero usable como sistema diario."
+  },
+  {
+    "nombre": "Garuda Linux",
+    "nivel": "Intermedio",
+    "entorno": "KDE Plasma",
+    "recurso": "Alto",
+    "estabilidad": "Media",
+    "descripcion": "Enfocada en rendimiento y estética. Ideal para gaming y personalización."
+  },
+  {
+    "nombre": "elementary OS",
+    "nivel": "Principiante",
+    "entorno": "Pantheon",
+    "recurso": "Medio",
+    "estabilidad": "Alta",
+    "descripcion": "Inspirada en macOS. Minimalista, moderna y centrada en la experiencia de usuario."
+  },
+  {
+    "nombre": "EndeavourOS",
+    "nivel": "Intermedio",
+    "entorno": "Personalizable",
+    "recurso": "Medio",
+    "estabilidad": "Media",
+    "descripcion": "Basada en Arch, más amigable y accesible. Excelente opción para aprender sobre Linux avanzado."
+  },
+  {
+    "nombre": "Cachy OS",
+    "nivel": "Intermedio",
+    "entorno": "KDE Plasma",
+    "recurso": "Medio",
+    "estabilidad": "media",
+    "descripcion": "Basada en Arch, pensada para estabilidad y facilidad de uso. Equilibrada para trabajo y entretenimiento."
+  },
+  {
+    "nombre": "Nobara Linux",
+    "nivel": "Intermedio",
+    "entorno": "GNOME",
+    "recurso": "Medio",
+    "estabilidad": "Media",
+    "descripcion": "Basada en Fedora, optimizada para juegos, multimedia y facilidad de uso. Creada por desarrolladores de Proton."
+  },
+  {
+    "nombre": "Kubuntu",
+    "nivel": "Principiante",
+    "entorno": "KDE Plasma",
+    "recurso": "Medio",
+    "estabilidad": "Alta",
+    "descripcion": "Versión de Ubuntu con KDE Plasma. Elegante y fácil de usar, con excelente equilibrio entre rendimiento y estética."
+  },
+  {
+    "nombre": "Xubuntu",
+    "nivel": "Principiante",
+    "entorno": "XFCE",
+    "recurso": "Bajo",
+    "estabilidad": "Alta",
+    "descripcion": "Ubuntu con XFCE. Muy ligera y eficiente. Ideal para equipos antiguos o con poca RAM."
+  },
+  {
+    "nombre": "Linux Mint XFCE",
+    "nivel": "Principiante",
+    "entorno": "XFCE",
+    "recurso": "Bajo",
+    "estabilidad": "Alta",
+    "descripcion": "Basada en Ubuntu, muy liviana y rápida. Perfecta para equipos modestos o uso diario sin complicaciones."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "pregunta": "¿Qué tanta experiencia tenés usando Linux o sistemas basados en Unix?",
+    "opciones": []
+  },
+  {
+    "pregunta": "Contame qué tipo de computadora usás (modelo, procesador, RAM, GPU, etc.).",
+    "opciones": []
+  },
+  {
+    "pregunta": "¿Tenés algún entorno gráfico o gestor de ventanas favorito? ¿O preferís probar uno nuevo?",
+    "opciones": []
+  },
+  {
+    "pregunta": "¿Para qué querés usar Linux principalmente? (trabajo, estudio, juegos, servidor, etc.)",
+    "opciones": []
+  },
+  {
+    "pregunta": "¿Qué tan importante es para vos la estabilidad del sistema frente a tener lo último en software?",
+    "opciones": []
+  },
+  {
+    "pregunta": "¿Preferís actualizaciones constantes o un sistema más conservador y estable?",
+    "opciones": []
+  },
+  {
+    "pregunta": "¿Cuánto valorás tener una comunidad activa o soporte fácil de encontrar?",
+    "opciones": []
+  },
+  {
+    "pregunta": "¿Te gusta personalizar tu entorno o preferís algo que funcione bien desde el inicio?",
+    "opciones": []
+  },
+  {
+    "pregunta": "¿Vas a usar Linux para jugar o solo para tareas cotidianas?",
+    "opciones": []
+  },
+  {
+    "pregunta": "¿Qué tanto te gustaría usar la terminal en tu día a día?",
+    "opciones": []
+  }
+]
