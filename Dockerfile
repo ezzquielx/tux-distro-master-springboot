@@ -2,23 +2,20 @@ FROM openjdk:21-jdk-slim
 
 WORKDIR /app
 
-# Copiar archivos de configuración de Maven
-COPY pom.xml .
+# Copiar archivos de Maven wrapper
 COPY .mvn .mvn
 COPY mvnw .
 COPY mvnw.cmd .
+COPY pom.xml .
 
 # Hacer mvnw ejecutable
 RUN chmod +x ./mvnw
 
-# Descargar dependencias
-RUN ./mvnw dependency:go-offline -B
-
 # Copiar código fuente
 COPY src ./src
 
-# Compilar aplicación
-RUN ./mvnw clean package -DskipTests
+# Compilar aplicación (sin go-offline)
+RUN ./mvnw clean package -DskipTests -B
 
 # Exponer puerto
 EXPOSE 8080
