@@ -14,11 +14,14 @@ RUN chmod +x ./mvnw
 # Copiar código fuente
 COPY src ./src
 
-# Compilar aplicación (sin go-offline)
+# Compilar aplicación
 RUN ./mvnw clean package -DskipTests -B
+
+# Listar archivos para debugging
+RUN ls -la target/
 
 # Exponer puerto
 EXPOSE 8080
 
-# Comando para ejecutar la aplicación
-CMD ["java", "-jar", "target/ezeAI-0.0.1-SNAPSHOT.jar"]
+# Buscar y ejecutar el jar generado (más robusto)
+CMD ["sh", "-c", "java -jar target/*.jar"]
