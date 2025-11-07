@@ -6,6 +6,12 @@ Este proyecto tiene como objetivo integrar y aplicar los conocimientos adquirido
 
 > 💡 *Tux Distro Master* combina tecnología, diseño y lógica de programación en un entorno práctico y educativo. Este repositorio contiene un proyecto basado en Spring Boot (Java) junto con soporte para Docker. La finalidad del proyecto es servir como bot ligero o servicio backend, preparado para desplegarse fácilmente. Lenguaje principal: Java (~98%). Incluye también un archivo `Dockerfile` para contenerización.
 
+## 🧩 Diagrama de Clases
+
+El siguiente diagrama muestra la estructura principal de clases del proyecto, destacando las relaciones entre los componentes clave de la aplicación.
+
+![Diagrama de Clases](diagrama/diagrama.png)
+
 ## Estructura del proyecto
 
 * `.mvn/wrapper/`, `mvnw`, `mvnw.cmd` — wrapper de Maven para garantizar compatibilidad en entornos de construcción.
